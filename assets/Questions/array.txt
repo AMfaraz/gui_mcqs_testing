@@ -1,0 +1,24 @@
+Q1: Which is correct way to declare an array?
+int arr[5]
+int[5] arr
+int arr[5]
+none of these
+both a n b
+Q2: What is complexity of Binary Search in an array?
+O(logn)
+O(logn)
+O(n)
+O(n^2)
+O(nlogn),
+Q3: In most programming languages array indexing typically starts at?
+0
+1
+-1
+0
+programmer's choice
+Q4: What is the time complexity for accessing an element in an array by its index?
+O(1)
+O(logn)
+O(n^2)
+O(n)
+O(1)

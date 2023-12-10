@@ -1,0 +1,30 @@
+Q#1: In which order queue works?,
+FIFO.
+FIFO.
+LIFO.
+none of these
+both a and b
+Q#2: In a queue, where are new elements added?
+At the end
+At the front
+At the end
+In between
+Both a and ,
+Q#3: What is the time complexity for inserting an element into a queue?
+O(1)
+O(n)
+O(n^2)
+O(1)
+O(logn)
+Q#4: Circular Queue is knows as
+Ring Buffer
+Ring Buffer
+Square Buffer
+Rectangle Buffer
+Curve Buffer
+Q#5: Can we implement a Priority queue using Linked list?
+Yes
+Yes
+No
+In rare cases
+Both b and c

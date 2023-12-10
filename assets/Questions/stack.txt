@@ -1,0 +1,24 @@
+Q#1: In which order Stack data structure works?
+LIFO .
+FIFO.
+LIFO.
+none of these
+both a and b
+Q#2: In a stack, where are new elements added?
+top
+bottom
+front
+rear
+top
+Q#3: Which operation is used to insert an element into the stack?
+Push
+Pop
+Add
+Push
+Peek
+Q#4: Which operation is used to delete an element from the stack?
+Pop
+Pop
+Push
+Peek
+See,

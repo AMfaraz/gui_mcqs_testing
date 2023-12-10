@@ -1,0 +1,24 @@
+﻿  ArrayQuestionScreen.cpp
+  LinkedlistScreen.cpp
+  QueueScreen.cpp
+  Selection.cpp
+E:\IDE workspace\GUI C++\mcqs\Quiz\Quiz\Quiz\studentInput.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:\IDE workspace\GUI C++\mcqs\Quiz\Quiz\Quiz\studentInput.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:\IDE workspace\GUI C++\mcqs\Quiz\Quiz\Quiz\studentInput.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:\IDE workspace\GUI C++\mcqs\Quiz\Quiz\Quiz\studentInput.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  StackScreen.cpp
+  Welcome.cpp
+E:\IDE workspace\GUI C++\mcqs\Quiz\Quiz\Quiz\studentInput.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:\IDE workspace\GUI C++\mcqs\Quiz\Quiz\Quiz\studentInput.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:\IDE workspace\GUI C++\mcqs\Quiz\Quiz\Quiz\studentInput.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:\IDE workspace\GUI C++\mcqs\Quiz\Quiz\Quiz\studentInput.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:\IDE workspace\GUI C++\mcqs\Quiz\Quiz\Quiz\Welcome.cpp(6,33): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  addQuestionScreen.cpp
+  studentInput.cpp
+E:\IDE workspace\GUI C++\mcqs\Quiz\Quiz\Quiz\studentInput.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:\IDE workspace\GUI C++\mcqs\Quiz\Quiz\Quiz\studentInput.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:\IDE workspace\GUI C++\mcqs\Quiz\Quiz\Quiz\studentInput.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:\IDE workspace\GUI C++\mcqs\Quiz\Quiz\Quiz\studentInput.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  About.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Quiz.vcxproj -> E:\IDE workspace\GUI C++\mcqs\Quiz\Quiz\x64\Debug\Quiz.exe

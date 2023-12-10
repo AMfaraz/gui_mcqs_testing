@@ -1,0 +1,24 @@
+Q#2: What are the 2 main components of a node in linked list?,
+Data and link
+Front and Rear
+Top and Bottom
+Data and link
+Priority and Link
+Q#3: What are the two common types of linked lists?
+Singly and Doubly
+Singly and Circular
+Soubly and Circular 
+Circular and Circular doubly 
+Singly and Doubly 
+Q#4: Can a singly linked list be traversed in backward order?
+No
+Yes
+No
+Most of the times
+Rarely
+Q#5: What is the time complexity for inserting an element at the beginning of a singly linked list?
+O(1)
+O(n)
+O(n^2)
+O(1)
+O(logn)
