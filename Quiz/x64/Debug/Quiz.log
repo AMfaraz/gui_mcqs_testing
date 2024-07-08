@@ -1,4 +1,5 @@
-﻿  ArrayQuestionScreen.cpp
+﻿  About.cpp
+  ArrayQuestionScreen.cpp
   LinkedlistScreen.cpp
   QueueScreen.cpp
   Selection.cpp
@@ -19,6 +20,7 @@ E:\IDE workspace\GUI C++\mcqs\Quiz\Quiz\Quiz\studentInput.h(2,10): warning C4067
 E:\IDE workspace\GUI C++\mcqs\Quiz\Quiz\Quiz\studentInput.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
 E:\IDE workspace\GUI C++\mcqs\Quiz\Quiz\Quiz\studentInput.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
 E:\IDE workspace\GUI C++\mcqs\Quiz\Quiz\Quiz\studentInput.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
   Generating Code...
   About.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
   Quiz.vcxproj -> E:\IDE workspace\GUI C++\mcqs\Quiz\Quiz\x64\Debug\Quiz.exe
